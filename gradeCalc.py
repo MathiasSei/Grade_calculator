@@ -1,5 +1,5 @@
 actual_grades = {
-    "Elektriske Kretser": "E",
+    "Elektriske Kretser": "A",
     "Matte 1000": "C",
     "Programmering 1": "A",
     "Elektronikk": "A",
@@ -11,7 +11,7 @@ actual_grades = {
 }
 
 wishful_grades = {
-    "Elektriske Kretser": "C",
+    "Elektriske Kretser": "A",
     "Matte 1000": "C",
     "Programmering 1": "A",
     "Elektronikk": "A",
